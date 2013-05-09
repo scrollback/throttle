@@ -1,0 +1,22 @@
+{
+  "name": "throttle",
+  "version": "0.1.0",
+  "description": "A simple, high performance rate limiter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aravindet/throttle.git"
+  },
+  "keywords": [
+    "rate",
+    "limiter",
+    "throttle"
+  ],
+  "author": "Aravind <aravind@askabt.in>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "00114f69ac02fd852cbb0eb276cf49073bdfd035"
+}
